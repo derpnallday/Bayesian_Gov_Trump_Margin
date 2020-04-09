@@ -1,116 +1,114 @@
-﻿Member,Party,State,Trump Score,Trump Margin,Predicted Score,Trump + -
-Todd Young,R,IN,0.843,19.2,0.814,2.9
-Ron Wyden,D,OR,0.174,-11,0.33,-15.7
-Roger F. Wicker,R,MS,0.934,17.8,0.8,13.4
-Sheldon Whitehouse,D,RI,0.235,-15.5,0.283,-4.7
-Elizabeth Warren,D,MA,0.139,-27.2,0.219,-8
-Mark R. Warner,D,VA,0.364,-5.3,0.411,-4.7
-Chris Van Hollen,D,MD,0.233,-26.4,0.218,1.6
-Tom Udall,D,NM,0.256,-8.2,0.367,-11
-Patrick J. Toomey,R,PA,0.879,0.7,0.518,36.1
-Thom Tillis,R,NC,0.933,3.7,0.582,35.1
-John Thune,R,SD,0.942,29.8,0.886,5.6
-Jon Tester,D,MT,0.314,20.4,0.826,-51.2
-Dan Sullivan,R,AK,0.913,14.7,0.765,14.8
-Luther Strange*,R,AL,0.911,27.7,0.887,2.4
-Debbie Stabenow,D,MI,0.289,0.2,0.512,-22.3
-Tina Smith,D,MN,0.266,-1.5,0.451,-18.5
-Kyrsten Sinema,D,AZ,0.528,3.5,0.402,12.6
-Richard C. Shelby,R,AL,0.934,27.7,0.877,5.7
-Jeanne Shaheen,D,NH,0.308,-0.4,0.502,-19.4
-Jeff Sessions*,R,AL,1,27.7,0.958,4.2
-Tim Scott,R,SC,0.933,14.3,0.753,17.9
-Rick Scott,R,FL,0.917,1.2,0.436,48
-Charles E. Schumer,D,NY,0.24,-22.5,0.235,0.5
-Brian Schatz,D,HI,0.24,-32.2,0.194,4.6
-Ben Sasse,R,NE,0.864,25,0.863,0.1
-Bernard Sanders,I,VT,0.143,-26.4,0.222,-7.9
-Marco Rubio,R,FL,0.907,1.2,0.532,37.5
-Mike Rounds,R,SD,0.922,29.8,0.891,3.1
-Jacky Rosen,D,NV,0.359,-2.4,0.625,-26.6
-Mitt Romney,R,UT,0.806,18.1,0.745,6
-Pat Roberts,R,KS,0.95,20.6,0.827,12.3
-James E. Risch,R,ID,0.908,31.8,0.893,1.4
-Jack Reed,D,RI,0.24,-15.5,0.284,-4.4
-Rob Portman,R,OH,0.908,8.1,0.659,24.9
-Gary C. Peters,D,MI,0.292,0.2,0.511,-22
-David Perdue,R,GA,0.947,5.2,0.61,33.8
-Rand Paul,R,KY,0.694,29.8,0.882,-18.9
-Bill Nelson*,D,FL,0.434,1.2,0.568,-13.4
-Patty Murray,D,WA,0.24,-15.5,0.284,-4.4
-Christopher Murphy,D,CT,0.261,-13.6,0.302,-4.2
-Lisa Murkowski,R,AK,0.744,14.7,0.765,-2.2
-Jerry Moran,R,KS,0.832,20.6,0.832,0
-Jeff Merkley,D,OR,0.14,-11,0.33,-19
-Robert Menendez,D,NJ,0.227,-14.1,0.285,-5.8
-Martha McSally,R,AZ,0.947,3.5,0.565,38.3
-Mitch McConnell,R,KY,0.942,29.8,0.886,5.6
-Claire McCaskill*,D,MO,0.458,18.6,0.83,-37.2
-John McCain*,R,AZ,0.83,3.5,0.612,21.9
-Edward J. Markey,D,MA,0.15,-27.2,0.214,-6.4
-Joe Manchin III,D,WV,0.529,42.2,0.915,-38.6
-Kelly Loeffler,R,GA,1,5.2,0.714,28.6
-Mike Lee,R,UT,0.739,18.1,0.801,-6.2
-Patrick J. Leahy,D,VT,0.242,-26.4,0.21,3.2
-James Lankford,R,OK,0.893,36.4,0.907,-1.4
-Jon Kyl*,R,AZ,0.714,3.5,0.638,7.6
-Amy Klobuchar,D,MN,0.277,-1.5,0.485,-20.8
-Angus S. King Jr.,I,ME,0.388,-3,0.452,-6.4
-John Kennedy,R,LA,0.875,19.6,0.817,5.8
-Tim Kaine,D,VA,0.306,-5.3,0.411,-10.5
-Doug Jones,D,AL,0.365,27.7,0.851,-48.6
-Ron Johnson,R,WI,0.893,0.8,0.522,37
-Johnny Isakson*,R,GA,0.92,5.2,0.592,32.9
-James M. Inhofe,R,OK,0.925,36.4,0.906,1.9
-Cindy Hyde-Smith,R,MS,0.943,17.8,0.761,18.2
-John Hoeven,R,ND,0.95,35.7,0.906,4.5
-Mazie K. Hirono,D,HI,0.231,-32.2,0.194,3.8
-Dean Heller*,R,NV,0.916,-2.4,0.5,41.6
-Heidi Heitkamp*,D,ND,0.548,35.7,0.915,-36.8
-Martin Heinrich,D,NM,0.275,-8.2,0.367,-9.2
-Josh Hawley,R,MO,0.838,18.6,0.759,7.9
-Orrin G. Hatch*,R,UT,0.964,18.1,0.825,14
-Margaret Wood Hassan,D,NH,0.298,-0.4,0.501,-20.3
-Kamala D. Harris,D,CA,0.165,-30.1,0.211,-4.6
-Chuck Grassley,R,IA,0.909,9.4,0.683,22.6
-Lindsey Graham,R,SC,0.87,14.3,0.757,11.2
-Kirsten E. Gillibrand,D,NY,0.124,-22.5,0.246,-12.2
-Cory Gardner,R,CO,0.889,-4.9,0.418,47.1
-Al Franken*,D,MN,0.236,-1.5,0.495,-25.9
-Jeff Flake*,R,AZ,0.813,3.5,0.602,21.1
-Deb Fischer,R,NE,0.917,25,0.862,5.6
-Dianne Feinstein,D,CA,0.25,-30.1,0.202,4.8
-Joni Ernst,R,IA,0.909,9.4,0.683,22.6
-Michael B. Enzi,R,WY,0.9,46.3,0.922,-2.2
-Richard J. Durbin,D,IL,0.246,-17.1,0.269,-2.3
-Tammy Duckworth,D,IL,0.259,-17.1,0.272,-1.4
-Joe Donnelly*,D,IN,0.542,19.2,0.833,-29.1
-Steve Daines,R,MT,0.858,20.4,0.826,3.3
-Ted Cruz,R,TX,0.924,9,0.682,24.2
-Mike Crapo,R,ID,0.932,31.8,0.893,3.9
-Kevin Cramer,R,ND,0.969,35.7,0.931,3.7
-Tom Cotton,R,AR,0.876,26.9,0.873,0.3
-Catherine Cortez Masto,D,NV,0.289,-2.4,0.462,-17.3
-John Cornyn,R,TX,0.95,9,0.676,27.4
-Bob Corker*,R,TN,0.84,26,0.879,-4
-Christopher A. Coons,D,DE,0.3,-11.4,0.327,-2.7
-Susan M. Collins,R,ME,0.669,-3,0.452,21.7
-Thad Cochran*,R,MS,0.971,17.8,0.83,14.1
-Bill Cassidy,R,LA,0.917,19.6,0.819,9.8
-Robert P. Casey Jr.,D,PA,0.298,0.7,0.522,-22.4
-Thomas R. Carper,D,DE,0.306,-11.4,0.325,-1.9
-Benjamin L. Cardin,D,MD,0.258,-26.4,0.212,4.7
-Shelley Moore Capito,R,WV,0.95,42.2,0.919,3.1
-Maria Cantwell,D,WA,0.25,-15.5,0.282,-3.2
-Richard Burr,R,NC,0.922,3.7,0.574,34.8
-Sherrod Brown,D,OH,0.267,8.1,0.659,-39.2
-Mike Braun,R,IN,0.946,19.2,0.766,18
-John Boozman,R,AR,0.942,26.9,0.873,6.9
-Cory A. Booker,D,NJ,0.144,-14.1,0.297,-15.3
-Roy Blunt,R,MO,0.933,18.6,0.807,12.6
-Richard Blumenthal,D,CT,0.208,-13.6,0.3,-9.2
-Marsha Blackburn,R,TN,0.919,26,0.913,0.6
-Michael F. Bennet,D,CO,0.283,-4.9,0.428,-14.5
-John Barrasso,R,WY,0.917,46.3,0.918,0
-Tammy Baldwin,D,WI,0.233,0.8,0.523,-29
-Lamar Alexander,R,TN,0.903,26,0.868,
+﻿Member,Party,State,Trump Score,Trump Margin,Predicted Score,Trump + -,Approval
+Todd Young,R,IN,0.843,19.2,0.814,2.9,1
+Ron Wyden,D,OR,0.174,-11,0.33,-15.7,0
+Roger F. Wicker,R,MS,0.934,17.8,0.8,13.4,1
+Sheldon Whitehouse,D,RI,0.235,-15.5,0.283,-4.7,0
+Elizabeth Warren,D,MA,0.139,-27.2,0.219,-8,0
+Mark R. Warner,D,VA,0.364,-5.3,0.411,-4.7,0
+Chris Van Hollen,D,MD,0.233,-26.4,0.218,1.6,0
+Tom Udall,D,NM,0.256,-8.2,0.367,-11,0
+Patrick J. Toomey,R,PA,0.879,0.7,0.518,36.1,1
+Thom Tillis,R,NC,0.933,3.7,0.582,35.1,1
+John Thune,R,SD,0.942,29.8,0.886,5.6,1
+Jon Tester,D,MT,0.314,20.4,0.826,-51.2,0
+Dan Sullivan,R,AK,0.913,14.7,0.765,14.8,1
+Luther Strange*,R,AL,0.911,27.7,0.887,2.4,1
+Debbie Stabenow,D,MI,0.289,0.2,0.512,-22.3,0
+Tina Smith,D,MN,0.266,-1.5,0.451,-18.5,0
+Kyrsten Sinema,D,AZ,0.528,3.5,0.402,12.6,1
+Richard C. Shelby,R,AL,0.934,27.7,0.877,5.7,1
+Jeanne Shaheen,D,NH,0.308,-0.4,0.502,-19.4,0
+Jeff Sessions*,R,AL,1,27.7,0.958,4.2,1
+Tim Scott,R,SC,0.933,14.3,0.753,17.9,1
+Rick Scott,R,FL,0.917,1.2,0.436,48,1
+Charles E. Schumer,D,NY,0.24,-22.5,0.235,0.5,0
+Brian Schatz,D,HI,0.24,-32.2,0.194,4.6,0
+Ben Sasse,R,NE,0.864,25,0.863,0.1,1
+Marco Rubio,R,FL,0.907,1.2,0.532,37.5,1
+Mike Rounds,R,SD,0.922,29.8,0.891,3.1,1
+Jacky Rosen,D,NV,0.359,-2.4,0.625,-26.6,0
+Mitt Romney,R,UT,0.806,18.1,0.745,6,1
+Pat Roberts,R,KS,0.95,20.6,0.827,12.3,1
+James E. Risch,R,ID,0.908,31.8,0.893,1.4,1
+Jack Reed,D,RI,0.24,-15.5,0.284,-4.4,0
+Rob Portman,R,OH,0.908,8.1,0.659,24.9,1
+Gary C. Peters,D,MI,0.292,0.2,0.511,-22,0
+David Perdue,R,GA,0.947,5.2,0.61,33.8,1
+Rand Paul,R,KY,0.694,29.8,0.882,-18.9,1
+Bill Nelson*,D,FL,0.434,1.2,0.568,-13.4,0
+Patty Murray,D,WA,0.24,-15.5,0.284,-4.4,0
+Christopher Murphy,D,CT,0.261,-13.6,0.302,-4.2,0
+Lisa Murkowski,R,AK,0.744,14.7,0.765,-2.2,1
+Jerry Moran,R,KS,0.832,20.6,0.832,0,1
+Jeff Merkley,D,OR,0.14,-11,0.33,-19,0
+Robert Menendez,D,NJ,0.227,-14.1,0.285,-5.8,0
+Martha McSally,R,AZ,0.947,3.5,0.565,38.3,1
+Mitch McConnell,R,KY,0.942,29.8,0.886,5.6,1
+Claire McCaskill*,D,MO,0.458,18.6,0.83,-37.2,0
+John McCain*,R,AZ,0.83,3.5,0.612,21.9,1
+Edward J. Markey,D,MA,0.15,-27.2,0.214,-6.4,0
+Joe Manchin III,D,WV,0.529,42.2,0.915,-38.6,1
+Kelly Loeffler,R,GA,1,5.2,0.714,28.6,1
+Mike Lee,R,UT,0.739,18.1,0.801,-6.2,1
+Patrick J. Leahy,D,VT,0.242,-26.4,0.21,3.2,0
+James Lankford,R,OK,0.893,36.4,0.907,-1.4,1
+Jon Kyl*,R,AZ,0.714,3.5,0.638,7.6,1
+Amy Klobuchar,D,MN,0.277,-1.5,0.485,-20.8,0
+John Kennedy,R,LA,0.875,19.6,0.817,5.8,1
+Tim Kaine,D,VA,0.306,-5.3,0.411,-10.5,0
+Doug Jones,D,AL,0.365,27.7,0.851,-48.6,0
+Ron Johnson,R,WI,0.893,0.8,0.522,37,1
+Johnny Isakson*,R,GA,0.92,5.2,0.592,32.9,1
+James M. Inhofe,R,OK,0.925,36.4,0.906,1.9,1
+Cindy Hyde-Smith,R,MS,0.943,17.8,0.761,18.2,1
+John Hoeven,R,ND,0.95,35.7,0.906,4.5,1
+Mazie K. Hirono,D,HI,0.231,-32.2,0.194,3.8,0
+Dean Heller*,R,NV,0.916,-2.4,0.5,41.6,1
+Heidi Heitkamp*,D,ND,0.548,35.7,0.915,-36.8,1
+Martin Heinrich,D,NM,0.275,-8.2,0.367,-9.2,0
+Josh Hawley,R,MO,0.838,18.6,0.759,7.9,1
+Orrin G. Hatch*,R,UT,0.964,18.1,0.825,14,1
+Margaret Wood Hassan,D,NH,0.298,-0.4,0.501,-20.3,0
+Kamala D. Harris,D,CA,0.165,-30.1,0.211,-4.6,0
+Chuck Grassley,R,IA,0.909,9.4,0.683,22.6,1
+Lindsey Graham,R,SC,0.87,14.3,0.757,11.2,1
+Kirsten E. Gillibrand,D,NY,0.124,-22.5,0.246,-12.2,0
+Cory Gardner,R,CO,0.889,-4.9,0.418,47.1,1
+Al Franken*,D,MN,0.236,-1.5,0.495,-25.9,0
+Jeff Flake*,R,AZ,0.813,3.5,0.602,21.1,1
+Deb Fischer,R,NE,0.917,25,0.862,5.6,1
+Dianne Feinstein,D,CA,0.25,-30.1,0.202,4.8,0
+Joni Ernst,R,IA,0.909,9.4,0.683,22.6,1
+Michael B. Enzi,R,WY,0.9,46.3,0.922,-2.2,1
+Richard J. Durbin,D,IL,0.246,-17.1,0.269,-2.3,0
+Tammy Duckworth,D,IL,0.259,-17.1,0.272,-1.4,0
+Joe Donnelly*,D,IN,0.542,19.2,0.833,-29.1,1
+Steve Daines,R,MT,0.858,20.4,0.826,3.3,1
+Ted Cruz,R,TX,0.924,9,0.682,24.2,1
+Mike Crapo,R,ID,0.932,31.8,0.893,3.9,1
+Kevin Cramer,R,ND,0.969,35.7,0.931,3.7,1
+Tom Cotton,R,AR,0.876,26.9,0.873,0.3,1
+Catherine Cortez Masto,D,NV,0.289,-2.4,0.462,-17.3,0
+John Cornyn,R,TX,0.95,9,0.676,27.4,1
+Bob Corker*,R,TN,0.84,26,0.879,-4,1
+Christopher A. Coons,D,DE,0.3,-11.4,0.327,-2.7,0
+Susan M. Collins,R,ME,0.669,-3,0.452,21.7,1
+Thad Cochran*,R,MS,0.971,17.8,0.83,14.1,1
+Bill Cassidy,R,LA,0.917,19.6,0.819,9.8,1
+Robert P. Casey Jr.,D,PA,0.298,0.7,0.522,-22.4,0
+Thomas R. Carper,D,DE,0.306,-11.4,0.325,-1.9,0
+Benjamin L. Cardin,D,MD,0.258,-26.4,0.212,4.7,0
+Shelley Moore Capito,R,WV,0.95,42.2,0.919,3.1,1
+Maria Cantwell,D,WA,0.25,-15.5,0.282,-3.2,0
+Richard Burr,R,NC,0.922,3.7,0.574,34.8,1
+Sherrod Brown,D,OH,0.267,8.1,0.659,-39.2,0
+Mike Braun,R,IN,0.946,19.2,0.766,18,1
+John Boozman,R,AR,0.942,26.9,0.873,6.9,1
+Cory A. Booker,D,NJ,0.144,-14.1,0.297,-15.3,0
+Roy Blunt,R,MO,0.933,18.6,0.807,12.6,1
+Richard Blumenthal,D,CT,0.208,-13.6,0.3,-9.2,0
+Marsha Blackburn,R,TN,0.919,26,0.913,0.6,1
+Michael F. Bennet,D,CO,0.283,-4.9,0.428,-14.5,0
+John Barrasso,R,WY,0.917,46.3,0.918,0,1
+Tammy Baldwin,D,WI,0.233,0.8,0.523,-29,0
+Lamar Alexander,R,TN,0.903,26,0.868,,1
